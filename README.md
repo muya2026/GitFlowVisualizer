@@ -2,7 +2,7 @@
 
 ### Stop memorizing Git flags. Toggle options visually, copy clean terminal commands.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub Stars](https://img.shields.io/github/stars/muya2026/gitflow-visualizer?style=social)](https://github.com/muya2026/gitflow-visualizer/stargazers)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://muya2026.github.io/gitflow-visualizer/)
 [![Deploy Status](https://img.shields.io/badge/GitHub_Pages-Deployed-blue)](https://muya2026.github.io/gitflow-visualizer/)
@@ -180,31 +180,27 @@ Contributions are welcome! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see below for details.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see below for details.
 
 ```
-MIT License
+GitFlow Visualizer - Interactive Git Command Generator
+Copyright (C) 2024 muya2026 & soms3r
 
-Copyright (c) 2024 GitFlow Visualizer
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+
+**Full License:** [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ---
 
